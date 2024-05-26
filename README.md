@@ -1,5 +1,6 @@
 ### Requirements
     PHP 8.2.4
+    Node 18
 
 ### Integrate Project
     - git clone
