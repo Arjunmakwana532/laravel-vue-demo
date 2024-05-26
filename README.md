@@ -1,9 +1,10 @@
-### Configuration
+### Requirements
     PHP 8.2.4
 
-### Integrate project
-    -php composer.phar install
-    -npm i
+### Integrate Project
+    - git clone
+    - php composer.phar install
+    - npm i
 
 ### Start Project 
     -npm run dev
